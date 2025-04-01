@@ -1,0 +1,7 @@
+"Raia Hadsell, a research scientist at DeepMind, uses “reinforcement learning”—an extreme trial-and-error 
+type of machine learning—to teach AI to problem solve, first by playing simple games like Pong, then increasingly 
+complex ones like Dota 2 and StarCraft II." 
+https://ai.engineering.columbia.edu/ai-applications/ai-video-games/
+
+This is some information on utilizing AI to have machine learing incorperated in video games and having them learn with more complex
+games to slowly develop.
