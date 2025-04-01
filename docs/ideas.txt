@@ -1,0 +1,3 @@
+For my research I was considering working on Ai designed for games that utilize tactical planning in order to
+allow for more dynamic gameplay, in this case simple strategies such as flanking and kiting, 
+however potentially utilizing more advanced technologies such as machine learning to find new strategies.
